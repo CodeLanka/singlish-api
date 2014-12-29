@@ -3,6 +3,10 @@
 
 To Start assume node has been install
 
+    git clone https://github.com/CodeLanka/singlish-api/
+    
+    
+    npm install
 
 
     node bin/www
